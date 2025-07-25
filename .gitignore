@@ -1,7 +1,12 @@
 #Project wise
+<<<<<<< HEAD
 node_modules
 package-lock.json
 C:\Users\sanjay\Desktop\2.4 QR Code Project\package.json
+=======
+node_modules/
+
+>>>>>>> d36d2b5b08d8b945d632bcc78f3ae65f09b9d263
 # Logs
 logs
 *.log

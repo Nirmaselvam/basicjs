@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "fs": "^0.0.1-security",
     "inquirer": "^9.2.16",
@@ -15,4 +16,20 @@
   "author": "",
   "license": "ISC",
   "description": ""
+=======
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "I am learning npm",
+  "type": "module",
+  "main": "npmstart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nirmal",
+  "license": "ISC",
+  "dependencies": {
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
+  }
+>>>>>>> d36d2b5b08d8b945d632bcc78f3ae65f09b9d263
 }
